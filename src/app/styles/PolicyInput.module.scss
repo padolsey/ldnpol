@@ -43,6 +43,7 @@
   }
   
   button {
+    width: 100%;
     align-self: flex-end;
     padding: var(--spacing-base) calc(var(--spacing-base) * 2);
     background-color: var(--color-primary);
@@ -146,7 +147,7 @@
     }
 
     .demoButton {
-      width: 100%;
+      width: auto;
       position: absolute;
       bottom: 10px;
       right: 10px;
