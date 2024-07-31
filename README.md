@@ -1,4 +1,4 @@
-# Policy Exploration Tool for Policymaking in Greater London
+# Policymaking Simulator [Greater London]
 
 ## Overview
 
