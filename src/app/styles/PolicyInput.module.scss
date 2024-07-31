@@ -146,10 +146,11 @@
     }
 
     .demoButton {
+      width: 100%;
       position: absolute;
       bottom: 10px;
       right: 10px;
-      background-color: var(--color-primary);
+      background-color: #3f703f;
       color: white;
       border: none;
       border-radius: var(--border-radius);
