@@ -1,0 +1,16 @@
+.reactions {
+  margin-top: calc(var(--spacing-base) * 2);
+  
+  h2 {
+    margin-bottom: var(--spacing-base);
+    color: var(--color-primary);
+    font-size: var(--font-size-large);
+    border-bottom: 3px solid var(--color-border);
+    padding-bottom: calc(var(--spacing-base) * 0.5);
+  }
+}
+
+.reactionList {
+  list-style-type: none;
+  padding: 0;
+}
