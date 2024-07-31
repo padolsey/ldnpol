@@ -20,16 +20,6 @@
   --transition-speed: 0.3s;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --color-background: #1a1a1a;
-    --color-background-alt: #2c3e50;
-    --color-text: #ecf0f1;
-    --color-text-light: #bdc3c7;
-    --color-border: #34495e;
-  }
-}
-
 * {
   box-sizing: border-box;
   padding: 0;
